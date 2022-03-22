@@ -9,8 +9,8 @@
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: Team 10
+#### Mia Yan, Nagima Dubanaeva
 
 ***
 
