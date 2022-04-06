@@ -68,7 +68,7 @@ The Project is broken down into the following file structure:
 
 << Front-end lead conducted significant research on... >>
 
-### Back End Specialist - eorge Tzakas
+### Back End Specialist - George Tzakas
 
 << The back end specialist... >>
 
