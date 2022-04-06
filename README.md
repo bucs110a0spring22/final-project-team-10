@@ -2,7 +2,7 @@
 # CS110 Project Proposal
 # << Project Title >>
 ## CS 110 Final Project
-### << Semester, Year >>
+### Spring, 2022
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
 << [repl](#) >>
@@ -10,7 +10,7 @@
 << [link to demo presentation slides](#) >>
 
 ### Team: Team 10
-#### Mia Yan, Nagima Dubanaeva
+#### Mia Yan, Nagima Dubanaeva, George Tzakas
 
 ***
 
@@ -60,15 +60,15 @@ The Project is broken down into the following file structure:
 
    * You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
 
-### Software Lead - << name >>
+### Software Lead - Mia Yan
 
 << Worked as integration specialist by... >>
 
-### Front End Specialist - << name >>
+### Front End Specialist - Nagima Dubanaeva
 
 << Front-end lead conducted significant research on... >>
 
-### Back End Specialist - << name >>
+### Back End Specialist - eorge Tzakas
 
 << The back end specialist... >>
 
