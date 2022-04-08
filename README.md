@@ -24,6 +24,13 @@
 
 * << A wireframe or drawing of the user interface concept along with a short description of the interface. You should have one for each screen in your program. >>
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
+    ![63F7276B-01B0-4E99-9759-AB26FCEBBA3A](https://user-images.githubusercontent.com/98920760/162537262-eab3614e-5c6e-420f-84cb-e9670aa5183a.JPEG)
+- The opening screen(start screen) shows the name of the game and lets the user start the game
+![Team10_GUI-0](https://user-images.githubusercontent.com/98920760/162537340-fdc11bce-72fa-46a0-922d-b88f729a1859.png)
+- In the game screen the user moves the snake around in order to collect food (apples)
+![5A411926-A80F-47C0-A91C-5A952FBFE32F](https://user-images.githubusercontent.com/98920760/162537424-2f64d017-6a28-40a9-ad28-f450da60c024.JPEG)
+- The last screen is the game over screen. When the user is done laying is shows how many apples were collected and their over all score. 
+
 * << You should also have a screenshot of each screen for your final GUI >>
 
 ***        
