@@ -5,7 +5,7 @@
 ### Spring, 2022
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
-<< [repl](https://replit.com/join/ikvdjlwjwx-miayan) >>
+[repl](https://replit.com/join/ikvdjlwjwx-miayan)
 
 << [link to demo presentation slides](#) >>
 
