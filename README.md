@@ -87,7 +87,7 @@ The Project is broken down into the following file structure:
 ## ATP
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
-| ----------------------|:-------------:| -----------------:| -------------- |
+| ----------------------|:-------------:|:-----------------| -------------- |
 |  1  | opening run page  |  the page opnes up to the gae window with words "Snake Game"   |          |
 |  2  | start button  | the user presses "play/start" button the game starts with the snake appering on the page and the main game window with a timer  |                 |
 |  3  |  the apples appear | the user has to move the snake around to eat the apples |                 |
