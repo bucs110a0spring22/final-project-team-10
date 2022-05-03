@@ -88,6 +88,14 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Run Counter Program  | GUI window appears with count = 0  |          |
-|  2  | click count button  | display changes to count = 1 |                 |
+|  1  | opening run page  |  the page opnes up to the gae window with words "Snake Game"   |          |
+|  2  | start button  | the user presses "play/start" button the game starts with the snake appering on the page and the main game window with a timer  |                 |
+|  3  |  the apples appear | the user has to move the snake around to eat the apples |                 |
+|  4  | press up key  | the snake moves up along the tiles |                 |
+|  5  | press down key  | the snake moves down along the tiles |                 |
+|  6  | press right key  | the snake moves to the right on the tiles|                 |
+|  7  | press left key  | the snake moves to the left on the tiles |                 |
+|  8  | the timer runs out   | once the timer runs out the game ends |                 |
+|  9  | game over page  |  the words "game over" with the number of apples eaten and the score appears
+ |                 |
 etc...
