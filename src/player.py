@@ -1,4 +1,4 @@
-import os, sys, random
+import os
 import pygame
 
 def load_image(name, colorkey=None):
@@ -17,8 +17,7 @@ def load_image(name, colorkey=None):
   
 class Player(pygame.sprite.Sprite):
 
-    
-  def __init__(self, name, x, y):
+  def __init__(self, name, x, y, score):
     self.name = name
     pygame.sprite.Sprite.__init__(self)
     
@@ -27,6 +26,8 @@ class Player(pygame.sprite.Sprite):
     
     self.rect.x = x
     self.rect.y = y
+    #score is number of apples collected
+    self.score = 0
       
   def move(self):
     keys = pygame.key.get_pressed()
@@ -39,3 +40,7 @@ class Player(pygame.sprite.Sprite):
         self.rect.y = self.rect.y + 1
     elif keys[pygame.K_DOWN]:
         self.rect.y = self.rect.y - 1
+
+  def eat(self, score):
+    
+    
