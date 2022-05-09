@@ -86,8 +86,8 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:|:-----------------| -------------- |
-|  1  | opening run page  |  The timer and “Snake Game” appear on the window   |          |
+|  1  | opening run page  |   “Snake Game” appeas on the window   |          |
 |  2  | The snake and the apples appear| The game starts with the snake and apples on the main game window |                 |
 |  3  | The user moves the snake | The user moves the snake to "eat" the apples |                 |
-|  4  | the timer runs out   | once the timer runs out the game ends |                 |
+|  4  | The user hits the wall   | once the user hits the wall, the game ends and the score appears |                 |
 
