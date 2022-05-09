@@ -7,7 +7,7 @@
 
 [repl](https://replit.com/join/ikvdjlwjwx-miayan)
 
-<< [link to demo presentation slides](#) >>
+<< [link to demo presentation slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing) >>
 
 ### Team: Team 10
 #### Mia Yan, Nagima Dubanaeva, George Tzakas
@@ -16,20 +16,18 @@
 
 ## Project Description *(Software Lead)*
 
-<< Give an overview of your project >>
+The game we worked on for this project is the relatively simple and well known “Snake Game”. The main groundwork of this game is that the user moves the snake around the window in order to eat the apples; and obtain the highest possible score before the timer runs out.
 
 ***    
 
 ## User Interface Design *(Front End Specialist)*
 
-* << A wireframe or drawing of the user interface concept along with a short description of the interface. You should have one for each screen in your program. >>
-    * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
     ![63F7276B-01B0-4E99-9759-AB26FCEBBA3A](https://user-images.githubusercontent.com/98920760/162537262-eab3614e-5c6e-420f-84cb-e9670aa5183a.JPEG)
 - The opening screen(start screen) shows the name of the game and lets the user start the game
 ![Team10_GUI-0](https://user-images.githubusercontent.com/98920760/162537340-fdc11bce-72fa-46a0-922d-b88f729a1859.png)
-- In the game screen the user moves the snake around in order to collect food (apples)
+- In the main game screen, the user moves the snake around in order to collect food (apples)
 ![5A411926-A80F-47C0-A91C-5A952FBFE32F](https://user-images.githubusercontent.com/98920760/162537424-2f64d017-6a28-40a9-ad28-f450da60c024.JPEG)
-- The last screen is the game over screen. When the user is done laying is shows how many apples were collected and their over all score. 
+- The last screen is the game over screen. Once the timer runs out, the last window shows how many apples were collected and their over all score. 
 
 * << You should also have a screenshot of each screen for your final GUI >>
 
@@ -88,14 +86,8 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:|:-----------------| -------------- |
-|  1  | opening run page  |  the page opnes up to the gae window with words "Snake Game"   |          |
-|  2  | start button  | the user presses "play/start" button the game starts with the snake appering on the page and the main game window with a timer  |                 |
-|  3  |  the apples appear | the user has to move the snake around to eat the apples |                 |
-|  4  | press up key  | the snake moves up along the tiles |                 |
-|  5  | press down key  | the snake moves down along the tiles |                 |
-|  6  | press right key  | the snake moves to the right on the tiles|                 |
-|  7  | press left key  | the snake moves to the left on the tiles |                 |
-|  8  | the timer runs out   | once the timer runs out the game ends |                 |
-|  9  | game over page  |  the words "game over" with the number of apples eaten and the score appears
- |                 |
-etc...
+|  1  | opening run page  |  The timer and “Snake Game” appear on the window   |          |
+|  2  | The snake and the apples appear| The game starts with the snake and apples on the main game window |                 |
+|  3  | The user moves the snake | The user moves the snake to "eat" the apples |                 |
+|  4  | the timer runs out   | once the timer runs out the game ends |                 |
+
