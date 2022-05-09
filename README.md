@@ -7,7 +7,7 @@
 
 [repl](https://replit.com/join/ikvdjlwjwx-miayan)
 
-<< [link to demo presentation slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing) >>
+[Demo presentation slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing)
 
 ### Team: Team 10
 #### Mia Yan, Nagima Dubanaeva, George Tzakas
