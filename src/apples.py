@@ -1,20 +1,23 @@
 import pygame
+import random
 
-class apple(pygame.sprite.Sprite):
-  def __init__(self,pos,apple.png):
-      pygame.sprite.Sprite.__init__(self)
-      self.image = pygame.image.load(apple.png)
-      self.rect = self.image.get_rect()
+from src import Controller
+from assets import 'apple.png'
 
-      self.rect.x = x
-      self.rect.y = y
-      
-      x=pos[0]
-      y=pos[0]
-  
+# fruit position
+x_coordinates = [0,40,80,120,160,200,240,280,320,360,400,440]
+y_coordinates = [0,40,80,120,160,200,240,280,320,360,400,440]
 
-  def draw_apple(self):
-      pygame.draw.rect(apple.png)
+position = [
+    random.choice(x_coordinates),
+    random.choice(y_coordinates)
+]
 
+apple_img = pygame.image.load('assets/apple.png')
+spawn = True
 
-#reminder for m (dont mind this lol): apples need a value to keep score
+def apple():
+  pygame.draw.rect(Controller.game_window, 'white',
+                     pygame.Rect(position[0], position[1], 0.5, 0.5))
+  Controller.game_window.blit(apple_img, position)
+
