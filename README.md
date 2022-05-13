@@ -1,21 +1,18 @@
-:warning: Everything between << >> needs to be replaced (remove << >> after replacing)
+
 # CS110 Project Proposal
 # Snake Game
 ## CS 110 Final Project
 ### Spring, 2022
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
-[repl](https://replit.com/join/ikvdjlwjwx-miayan)
+[Replit Link](https://replit.com/join/ikvdjlwjwx-miayan)
 
-<<<<<<< HEAD
-[Demo presentation slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing
+[Demo Presentation Slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing
 ) 
 
-[Project Presentation] 
-(https://drive.google.com/file/d/1WDqpaQxwekYXuxBDd5gJdE5GG7NhO9bS/view?usp=sharing)
+[Project Presentation](https://drive.google.com/file/d/1WDqpaQxwekYXuxBDd5gJdE5GG7NhO9bS/view?usp=sharing)
+
 =======
-[Demo presentation slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing)
->>>>>>> origin/master
 
 ### Team: Team 10
 #### Mia Yan, Nagima Dubanaeva, George Tzakas
@@ -24,11 +21,11 @@
 
 ## Project Description *(Software Lead)*
 
-<<<<<<< HEAD
+
 The python project is a snake game inspired by the original arcade game, Blockade by Gremlim. Our game follows the same premise of the orignial in which the user controls a snake to collect apples. Our version of the game has an updated front-end design and the snake increases in speed after a score of 7. The snake moves around the screen on a grid using the arrow keys on their keyboard. The object of the game is to collect the highest number of apples. The game ends when the user crashes into the wall.
-=======
+
 The game we worked on for this project is the relatively simple and well known “Snake Game”. The main groundwork of this game is that the user moves the snake around the window in order to eat the apples; and obtain the highest possible score before the timer runs out.
->>>>>>> origin/master
+r
 
 ***    
 
