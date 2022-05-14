@@ -37,16 +37,16 @@ Our python project is a snake game inspired by the original arcade game, Blockad
  
 
 ### Our Final Gui Design: 
-* The start screen
-* 
+* The start screen:
+
 ![Screenshot (66)](etc/start_screen.png)
 
-* The main game window
-* 
-  ![Screenshot (67)](etc/game_window.png)
-* Game over screen
-* 
-  ![Screenshot (68)](etc/game_over_screen.png)
+* The main game window:
+
+![Screenshot (67)](etc/game_window.png)
+* Game over screen:
+
+![Screenshot (68)](etc/game_over_screen.png)
   
 ***        
 
