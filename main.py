@@ -1,10 +1,11 @@
 import pygame
-
+from replit import audio
 
 #import your controller
 from src import Controller
 
 def main():
+  
   pygame.init()
   while True:
     Controller.mainloop()
