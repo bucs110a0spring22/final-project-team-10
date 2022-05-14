@@ -12,14 +12,7 @@
 
 [Project Presentation](https://drive.google.com/file/d/1WDqpaQxwekYXuxBDd5gJdE5GG7NhO9bS/view?usp=sharing)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-[Demo presentation slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing)
->>>>>>> origin/master
-=======
-[Demo presentation slides](https://docs.google.com/presentation/d/1hSJARIv3SzEI46V6bj2UHlwYIM3N_5MJ7r4KJDbfDiY/edit?usp=sharing)
->>>>>>> origin/master
+
 
 ### Team: Team 10
 #### Mia Yan, Nagima Dubanaeva, George Tzakas
@@ -28,43 +21,16 @@
 
 ## Project Description *(Software Lead)*
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 Our python project is a snake game inspired by the original arcade game, Blockade by Gremlim. Our game follows the same premise of the orignial in which the user controls a snake to collect apples. Our version of the game has an updated front-end design and the snake increases in speed after a score of 7. The snake moves around the screen on a grid using the arrow keys on their keyboard. The object of the game is to collect the highest number of apples. The game ends when the user crashes into the wall.
-=======
-The game we worked on for this project is the relatively simple and well known “Snake Game”. The main groundwork of this game is that the user moves the snake around the window in order to eat the apples; and obtain the highest possible score before the timer runs out.
->>>>>>> origin/master
-=======
-The game we worked on for this project is the relatively simple and well known “Snake Game”. The main groundwork of this game is that the user moves the snake around the window in order to eat the apples; and obtain the highest possible score before the timer runs out.
->>>>>>> origin/master
 
-***    
 
 ## User Interface Design *(Front End Specialist)*
+- The opening screen(start screen) shows the name of the game and lets the user start the game
+![63F7276B-01B0-4E99-9759-AB26FCEBBA3A](https://user-images.githubusercontent.com/98920760/162537262-eab3614e-5c6e-420f-84cb-e9670aa5183a.JPEG)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
- - The opening screen(start screen) shows the name of the game and lets the user start the game
-
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
-    ![63F7276B-01B0-4E99-9759-AB26FCEBBA3A](https://user-images.githubusercontent.com/98920760/162537262-eab3614e-5c6e-420f-84cb-e9670aa5183a.JPEG)
- In the game screen the user moves the snake around in order to collect food (apples)
-![Team10_GUI-0](https://user-images.githubusercontent.com/98920760/162537340-fdc11bce-72fa-46a0-922d-b88f729a1859.png)
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> origin/master
 - In the main game screen, the user moves the snake around in order to collect food (apples)
 ![5A411926-A80F-47C0-A91C-5A952FBFE32F](https://user-images.githubusercontent.com/98920760/162537424-2f64d017-6a28-40a9-ad28-f450da60c024.JPEG)
-- The last screen is the game over screen. Once the timer runs out, the last window shows how many apples were collected and their over all score. 
-
-* << You should also have a screenshot of each screen for your final GUI >>
->>>>>>> origin/master
 
 - The last screen is the game over screen. When the user is done playing, it shows how many apples were collected, and the user's over all score.
 ![5A411926-A80F-47C0-A91C-5A952FBFE32F](https://user-images.githubusercontent.com/98920760/162537424-2f64d017-6a28-40a9-ad28-f450da60c024.JPEG)
@@ -89,7 +55,6 @@ The game we worked on for this project is the relatively simple and well known �
     * Time - The Python time module lets you represent time in objects, numbers, and strings, as well as perform other useful tasks.
     * Random - Python Random module is an in-built module of Python which is used to generate random numbers.
       
-
 * Class Interface Design 
       ![class diagram](assets/class_interface.png)
 
@@ -148,25 +113,11 @@ The back end specialist worked on the final stages of the project and the contro
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:|:-----------------| -------------- |
 |  1  | opening run page  |   “Snake Game” appeas on the window   |          |
-<<<<<<< HEAD
-<<<<<<< HEAD
 |  2  | The snake and the apples appear| The game starts with the snake and apples on the main game window |                |
-|  3  | The user moves the snake | The user moves the snake to "eat" the apples |                 ||
+|  3  | The user moves the snake | The user moves the snake to "eat" the apples |                 |
 |  4  | The user enters "UP" arrow  | the snake moves up |                 |
- |  5  | The user enters "down" arrow  | the snake moves down |                 |
- |  6  | The user enters "right" arrow  | the snake moves to the right |                 |
- |  7  | The user enters "left" arrow  | the snake moves to the left |
-|  8  | The user hits the wall   | Once the user runs into the walls of the game, it ends. The word “Game over, Score: x” appear.
+|  5  | The user enters "down" arrow  | the snake moves down |                 |
+|  6  | The user enters "right" arrow  | the snake moves to the right |                 |
+|  7  | The user enters "left" arrow  | the snake moves to the left |                 |
+|  8  | The user hits the wall   | Once the user runs into the walls of the game, it ends. The word “Game over, Score: x” appear.|      |
  
-
-=======
-|  2  | The snake and the apples appear| The game starts with the snake and apples on the main game window |                 |
-|  3  | The user moves the snake | The user moves the snake to "eat" the apples |                 |
-|  4  | The user hits the wall   | once the user hits the wall, the game ends and the score appears |                 |
->>>>>>> origin/master
-=======
-|  2  | The snake and the apples appear| The game starts with the snake and apples on the main game window |                 |
-|  3  | The user moves the snake | The user moves the snake to "eat" the apples |                 |
-|  4  | The user hits the wall   | once the user hits the wall, the game ends and the score appears |                 |
->>>>>>> origin/master
-
